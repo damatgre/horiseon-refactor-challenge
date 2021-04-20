@@ -1,8 +1,11 @@
+/*applied to entire page*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*body style*/
 
 body {
     background-color: #d9dcd6;
@@ -64,6 +67,9 @@ main {
     display: inline-block;
     margin-left: 15px;
 }
+
+/*image float*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -125,6 +131,8 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*footer style*/
 
 .footer {
     padding: 30px;
