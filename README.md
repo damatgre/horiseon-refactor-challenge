@@ -32,7 +32,7 @@ This application was created for a desktop web browser. It has not yet been modi
 
 ## Screenshot
 
-![Hero Image Screenshot] (../css/assets/images/hero-screenshot.png)
+![screenshot of hero](.css/assets/images/hero-screenshot.png)
 
 ## Credits
 
