@@ -32,6 +32,8 @@ This application was created for a desktop web browser. It has not yet been modi
 
 ## Screenshot
 
+![Hero Image Screenshot] (../css/assets/images/hero-screenshot.png)
+
 ## Credits
 
 The team responsible for this project consists of students, TAs, and instructional staff in the Rutgers Coding Bootcamp. 
@@ -43,3 +45,4 @@ The team responsible for this project consists of students, TAs, and instruction
 - https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
+
