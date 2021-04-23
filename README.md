@@ -32,9 +32,9 @@ This application was created for a desktop web browser. It has not yet been modi
 
 ## Screenshot
 
-![screenshot of hero](./css/assets/images/hero-screenshot.png)
-![screenshot of services and benefits](./css/assets/images/article-aside-screenshot.png)
-![screenshot of footer](.css/assets/images/footer-screenshot.png)
+![screenshot of hero](../css/assets/images/hero-screenshot.png)
+![screenshot of services and benefits](../css/assets/images/article-aside-screenshot.png)
+![screenshot of footer](../css/assets/images/footer-screenshot.png)
 
 ## Credits
 
