@@ -45,6 +45,3 @@ The team responsible for this project consists of students, TAs, and instruction
 - https://www.markdownguide.org/basic-syntax/
 - [Writing a readme: readme essentials](https://www.youtube.com/watch?v=RZ5vduluea4&t=157s)
 - https://www.w3schools.com/html/html5_semantic_elements.asp
-
-## License
-
